@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(160,171,181,1);
+}
+/* This is or background moblie color */
+@media screen and (min-width: 480px){
+	body{
+		background-color:lightgoldenrodyellow;
+}
+/* Color of the Table */
+body,td,th {
+    color: rgba(54,45,45,1);
+	text-decoration-color: aqua
+}
+
+
+
+h1 {
+	color: navy;
+	text-decoration-color: navy;
+}
+
+h2 {
+	color:black;
+	text-decoration-color: black;
+}
+
+h3 {
+	color:black;
+	text-decoration-color: red;
+}
+
